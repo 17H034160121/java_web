@@ -1,5 +1,5 @@
 # 个人网页
-使用bootstrap+jsp+servlet+mysql+druid+redis+tomcat实现的个人网页<br>
+&emps;使用bootstrap+jsp+servlet+mysql+druid+redis+tomcat实现的个人网页<br>
 因为整体是练手加课设写的，所以存在严重的整体结构设计问题，不准备修改。<br>
 在之后可能会使用spring来实现其他网站。<br>
 <br>
