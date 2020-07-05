@@ -1,0 +1,57 @@
+.f2 .container{
+	text-align: center;
+	padding-bottom: 25px;
+	font-size: 11px;
+}
+
+.cbl{
+	position: fixed;
+	right: 0;
+	top:40%;
+	height: 54px;
+	z-index: 99;
+}
+.cbl li{
+    list-style:none;   
+}
+
+.cbl .icon{
+	background-color: #31353d;
+	height: 54px;
+	width: 54px;
+    transition: width 1s;    <!--1s½¥±ä¿í¶È-->
+	-webkit-transition: width 1s;
+    overflow: hidden;
+    white-space:nowrap;	  
+    float: right;
+}
+.cbl .icon:hover{
+	background-color: #61b0ff;
+	width: 180px;
+}
+.cbl span.title{
+	font-size: 16px;	
+	padding-left: 5px;
+	color: #FFFFFF;	
+	position: relative;
+	top:-20px
+}
+.cbl .icon i{
+	background-image: url(../img/pic.png);
+	height: 30px;
+	width: 30px;
+	margin: 12px;
+	display: inline-block;
+}
+.cbl .i1{
+	background-position: 30px -40px;
+}
+.cbl .i2{
+	background-position: 30px 0px;
+}
+.cbl .i3{
+	background-position: 30px -184px;
+}
+.cbl .i4{
+	background-position: 30px -80px;
+}

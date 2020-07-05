@@ -1,0 +1,50 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<header id="header" data-spy="affix" data-offset-top="70">
+			<nav class="navbar-inverse" id="daohang">
+				<div class="daohang">
+					<div class="navbar-header clearfix">
+						<a href="../front/index.jsp" class="navbar-brand"><img
+							src="../img/school_logo.jpg" /></a>
+					</div>
+					<div class="collapse navbar-collapse" id="daohangtiao">
+						<ul class="nav navbar-nav">
+							<li><a href="../back/foodForm.jsp">增加家乡美食数据</a></li>
+							<li><a href="../back/viewForm.jsp">增加家乡风景数据</a></li>
+							<li><a href="../back/cultureForm.jsp">增加家乡文化数据</a></li>
+							<li class="wd1"><a href="#">说明</a>
+								<ul class="wd2 clearfix">
+									<li class="pull-left " style="width: 350px;">
+										<p>
+											<a href="#" class="a1">课程</a>
+										</p>
+										<ul class="ul1">
+											<li><a href="#" title="基于java的web开发">基于java的web开发</a></li>
+										</ul>
+									</li>
+									<li class="pull-left clearfix" style="width: 350px;">
+										<p>
+											<a href="#" class="a1">基本信息</a>
+										</p>
+										<ul class="ul1">
+											<li><a href="#" title="陈朝听">姓名：陈朝听</a></li>
+											<li><a href="#" title="17H034160121">学号：17H034160121</a></li>
+										</ul>
+									</li>
+									<li class="pull-left clearfix" style="width: 350px;">
+										<p>
+											<a href="#" class="a1">时间</a>
+										</p>
+										<ul class="ul1">
+											<li><a href="#" title="2020/4/18">开始设计时间：2020/4/18</a></li>
+										</ul>
+									</li>
+								</ul></li>
+						</ul>
+						<ul class="zcdl nav navbar-nav pull-right">
+							<li><a href="../front/index.jsp">返回前台</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</header>

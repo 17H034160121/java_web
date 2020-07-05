@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+		<div class="footer">
+			<div class="f2">
+				<div class="container">
+					<hr style="width: 100%;border: none;height: 1px;background-color: #E2E2E2;"/>
+					<p>别看了   到底了/(ㄒoㄒ)/~~</p>
+					<hr style="width: 100%;border: none;height: 1px;background-color: #E2E2E2;"/>
+					<p>版权所有 2019/12/23--2020/4/18 中国计量大学   陈朝听-17H034160121 Web前端设计与开发 版本: V1.0</p>
+					<p>版权所有 2020/4/18--------- 中国计量大学   陈朝听-17H034160121 基于java的web开发 版本: V2.0</p>
+				</div>
+			</div>
+		</div>
+		
+	
+		<ul class="cbl" >
+			<li><a href="#">
+				<div class="icon d1"><i class="i1"></i><span class="title">761147933</span></div>
+			</a></li>
+			<i class="clearfix"></i>
+			<li><a href="#">
+				<div class="icon d2"><i class="i2"></i><span class="title">13566135160</span></div>
+			</a></li>
+			<i class="clearfix"></i>
+			<li><a  href="#">
+				<div class="icon"><i class="i3"></i><span class="title">cct的个人主页</span></div>
+			</a></li>
+			<i class="clearfix"></i>
+			<li><a  href="#">
+				<div class="icon"><i class="i4"></i><span class="title">13566135160</span></div>
+			</a></li>
+		</ul>
